@@ -37,3 +37,5 @@ Visual studio code where the html code is used to design the web page.
 CSS, Box plotting, CSS positioning.
 Bootstrap, media queries. 
 
+
+
