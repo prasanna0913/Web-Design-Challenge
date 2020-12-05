@@ -29,4 +29,11 @@ style.css: This is css styling sheet for all the html files.
 
 Data_To_HTML.ipynb: This contains the code to convert the cities.csv file into an html file used in the table.
 
+Technologies used:
+Visual Studio code
+
+Setup used to design the web pages:
+Visual studio code where the html code is used to design the web page.
+CSS, Box plotting, CSS positioning.
+Bootstrap, media queries. 
 
